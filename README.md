@@ -12,11 +12,6 @@ The project includes functions for:
 - computing the dot product
 - applying simple linear operations based on vectors
 
-## Files
-
-- `vector_ops.py` — main file with vector functions
-- `demo.py` — example script that runs the functions and prints output
-
 ## Example vectors
 
 ```python
