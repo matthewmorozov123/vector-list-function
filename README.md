@@ -1,18 +1,29 @@
-# vector-list-function
-Python implementation of basic vector operations using lists (scaling, addition, subtraction, dot product)
-This repository contains basic Python functions for vector operations using lists.
+# Vector List Functions
+
+A simple Python implementation of basic vector operations using lists.  
+This project demonstrates how common vector calculations can be performed without external libraries like NumPy.
+
+---
+
+## Overview
+
+This repository contains functions for performing fundamental vector operations using standard Python lists. It is designed to reinforce understanding of vector math and how these operations work at a low level.
+
+---
 
 ## Features
 
 The project includes functions for:
 
-- scaling a vector
-- adding two vectors
-- subtracting two vectors
-- computing the dot product
-- applying simple linear operations based on vectors
+- Scaling a vector by a scalar
+- Adding two vectors
+- Subtracting two vectors
+- Computing the dot product
+- Applying simple linear combinations of vectors
 
-## Example vectors
+---
+
+## Example
 
 ```python
 Va = [2, 5, 7]
